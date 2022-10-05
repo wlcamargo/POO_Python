@@ -11,6 +11,7 @@ Vamos supor que você queira utilizar o Python para conectar no SQL Server e rea
 As três vão reproduzir o mesmo resultado, mas quando eu quiser incluir novas funcionalidades no meu programa, o objeto será bem mais simples de implementar e performático.
 
 Exemplos de possíveis melhorias, se você ainda não viu vantegem em criar objetos:
+
 	- Persistir dados em outro banco de dados (até mesmo NoSQL)
 	- Realizar cálculos
 	- Realizar transformações nos dados
