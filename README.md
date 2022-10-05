@@ -23,8 +23,11 @@ Exemplos de possíveis melhorias, se você ainda não viu vantegem em criar obje
 Estrutura do objeto
 
 class NomedaClasse:
+	
 	def iniciar(self):
+	
 	self.funcao1()
+	
 	self.funcao2()
 	
 	def funcao1(self):
