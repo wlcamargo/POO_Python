@@ -18,3 +18,16 @@ Exemplos de possíveis melhorias, se você ainda não viu vantegem em criar obje
 	- Enviar email com o resultado de uma consulta
   
   
+-----------------------------------------------------------------------------
+
+Estrutura do objeto
+
+class NomedaClasse:
+	def iniciar(self):
+	self.funcao1()
+	self.funcao2()
+	
+	def funcao1(self):
+	
+	def funcao2(self):
+	
